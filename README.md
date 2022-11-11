@@ -5,10 +5,11 @@ Repositório destinado ao desenvolvimento do projeto final do treinamento
 ## Base de Dados
 
 Para o projeto foi utilizado o dataset Walmart Sales Forecast
+
 Disponível em:
-'''
+"""
 https://www.kaggle.com/datasets/aslanahmedov/walmart-sales-forecast
-'''
+"""
 
 ## Colaboradores
 
